@@ -23,17 +23,17 @@ Javascript
 
 * [JavaScript (basics)](./slide/1-01-javascript-basics.pdf)
 * [JavaScript: Objects and Functions](./slide/1-02-javascript-objects-functions.pdf)
-* [Javascript Exercises](./slide/1-03-javascript-exercises.pdf)
-* Asynchronouos JavaScript programming
-* Functional Programming in JS
+* [Javascript Exercises (Objects and Functions)](./slide/1-03-javascript-exercises.pdf)
+* [Asynchronouos JavaScript programming](./slide/1-04-javascript-async-programming.pdf)
+* [Javascript Exercises (Asynchronous programming)](./slide/1-05-javascript-async-exercises.pdf)
 * Prototypes, Classes and Modules
 * The 'this' keyword
 
 Browsers and client-side applications
 
-* Web Architecture
-* HTML - a quick introduction
-* CSS
+* [Web Architecture](./slide/2-01-web-architecture.pdf)
+* [HTML - a quick introduction](./slide/2-02-html.pdf)
+* [CSS: Cascading Style Sheets](./slide/2-03-css.pdf)
 * JavaScript in the Browser
 * HTML5 Forms
 * Fetch API
